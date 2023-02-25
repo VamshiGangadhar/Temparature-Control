@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Temparature-Control/static/css/main.aafdbdf7.css",
+    "main.js": "/Temparature-Control/static/js/main.b2ca8991.js",
+    "static/js/787.fc59009d.chunk.js": "/Temparature-Control/static/js/787.fc59009d.chunk.js",
+    "index.html": "/Temparature-Control/index.html",
+    "main.aafdbdf7.css.map": "/Temparature-Control/static/css/main.aafdbdf7.css.map",
+    "main.b2ca8991.js.map": "/Temparature-Control/static/js/main.b2ca8991.js.map",
+    "787.fc59009d.chunk.js.map": "/Temparature-Control/static/js/787.fc59009d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aafdbdf7.css",
+    "static/js/main.b2ca8991.js"
+  ]
+}
