@@ -1,0 +1,14 @@
+.mainspot{
+   background-color: rgb(43, 217, 226);
+   padding: 15px;
+   width: 120px;
+   height: 120px;
+   border-radius: 50%;
+   vertical-align: center;
+   border: solid 0.2rem rgb(77, 255, 0);
+}
+.mainbox{
+   width: 100%;
+   justify-content: "center";
+   border: solid 2px;
+}
